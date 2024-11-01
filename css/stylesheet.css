@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'megante';
+    src: url('megante-personal-use-webfont.woff2') format('woff2'),
+         url('megante-personal-use-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'cano';
+    src: url('cano-webfont.woff2') format('woff2'),
+         url('cano-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'harabara';
+    src: url('harabara_mais_demo-webfont.woff2') format('woff2'),
+         url('harabara_mais_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'canoregular';
+    src: url('cano-webfont.woff2') format('woff2'),
+         url('cano-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'harabara_maisharabaramaisdemo';
+    src: url('harabara_mais_demo-webfont.woff2') format('woff2'),
+         url('harabara_mais_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'megant-personal-use-onlyRg';
+    src: url('megante-personal-use-webfont.woff2') format('woff2'),
+         url('megante-personal-use-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
